@@ -12,7 +12,7 @@ First steel → mothball fleet refit.
 The future of defense, security, and prosperity is autonomy.  
 **PXD2 will lead the way** — by consistent, unyielding hard work.
 
-[**Walk the floor →**](https://pxd2.github.io/) · [Company · contact · investors](https://pxd2.github.io/company/) · [(928) 457-6404](tel:+19284576404) · [pxd2@gmail.com](mailto:pxd2@gmail.com)
+[**Walk the floor →**](https://pxd2.github.io/) · [Company · contact · investors](https://pxd2.github.io/company/) · [(928) 457-6404](tel:+19284576404) · [pxdsquared@gmail.com](mailto:pxdsquared@gmail.com)
 
 </div>
 
