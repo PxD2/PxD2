@@ -7,9 +7,12 @@
 # PXD2
 
 **Software as much as hardware.** Think tank. Alternative autonomous systems.  
-First steel → mothball fleet refit. The next Anduril is already in the water.
+First steel → mothball fleet refit.
 
-[**Walk the floor →**](https://pxd2.github.io/) · [The brief](https://pxd2.github.io/pack/) · [pxdsquared@gmail.com](mailto:pxdsquared@gmail.com)
+The future of defense, security, and prosperity is autonomy.  
+**PXD2 will lead the way** — by consistent, unyielding hard work.
+
+[**Walk the floor →**](https://pxd2.github.io/) · [Company · contact · investors](https://pxd2.github.io/company/) · [pxdsquared@gmail.com](mailto:pxdsquared@gmail.com)
 
 </div>
 
@@ -17,7 +20,7 @@ First steel → mothball fleet refit. The next Anduril is already in the water.
 
 ## The floor is the brief
 
-The GitHub Pages hall is the landing. Hulls from the house blend. Airframes hung over the basins. Stack on the plaster. One glance.
+Press **Enter** on the hall to open the company page. Scan the QR in the room to return to the floor.
 
 | Hardware | Role |
 | --- | --- |
@@ -34,15 +37,12 @@ The GitHub Pages hall is the landing. Hulls from the house blend. Airframes hung
 | **Numerical Sentencing** | Control method — not a chat |
 | **Mesh-Brain** | LoRa swarm into a silent CORE |
 
-## Doctrine
+## Charter
 
-- First systems, designed here.
-- Full refit of mothball fleet hulls — drop a CORE in a cold ship and it hunts again.
-- Alternative autonomy that does not phone home.
-- Hardware you can walk. Software that drives it.
-
-## The floor is open
-
-Walk [pxd2.github.io](https://pxd2.github.io/). If the floor hits, fund the stack.
+- Work first. A secure future is consistent, unyielding hard work.
+- Software as much as hardware.
+- First systems, then mothball fleet refit.
+- Autonomy that stays ours.
+- Lead the way.
 
 Arizona, US · Chad Peters · PXD2 Soft Dev Group
