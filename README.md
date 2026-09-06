@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://pxd2.github.io/">
-  <img src="https://pxd2.github.io/og.jpg" alt="PXD2 — software as much as hardware" width="100%" />
+  <img src="https://raw.githubusercontent.com/PxD2/PxD2/main/og.jpg" alt="PXD2 — software as much as hardware" width="100%" />
 </a>
 
 # PXD2
