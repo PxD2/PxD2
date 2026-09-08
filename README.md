@@ -18,6 +18,24 @@ The future of defense, security, and prosperity is autonomy.
 
 ---
 
+## Data product — store and send the number, not the paragraph
+
+PXD2’s commercial software line is a **shared ideogram layer**.
+A 1-, 2-, or 4-byte symbol maps to a pre-agreed sentence or paragraph.
+Both ends hold the book. The wire and the disk hold the id.
+
+| Width | Capacity | What leaves the plate |
+| --- | --- | --- |
+| **1 byte** | 256 paragraphs | tactical / NPC / status book |
+| **2 bytes** | 65,536 paragraphs | operational speech + technical instruction |
+| **4 bytes** | 4.29 billion paragraphs | language-scale directory |
+
+Public contract and working codec: **[PxD2/lex](https://github.com/PxD2/lex)**  
+On-disk container: **[PxD2/PMOC](https://github.com/PxD2/PMOC)** (`.pmoc` slice kind `3` = lex)  
+Control method: **Numerical Sentencing** — machines are driven by numbers with fixed roles, not by chat.
+
+This is the Q-code / HTTP-404 idea, built as a product: library hash on the frame, live slots (`pct`, `n`), radio page in front, `.PMOC` on disk. It is not a claim that 4 bytes invent arbitrary English.
+
 ## The floor is the brief
 
 Press **Enter** on the hall to open the company page. Scan the QR in the room to return to the floor.
@@ -30,12 +48,14 @@ Press **Enter** on the hall to open the company page. Scan the QR in the room to
 | **Mini Frigate** | Compact surface combatant |
 | **PXD2 Marlin** | House fast-attack hull |
 
-| Software | Role |
-| --- | --- |
-| **ASTROCOM** | Barebone OS for droids, not desks |
-| **.PMOC** | Parallel Memory Optimized Compute |
-| **Numerical Sentencing** | Control method — not a chat |
-| **Mesh-Brain** | LoRa swarm into a silent CORE |
+| Software | Role | Public? |
+| --- | --- | --- |
+| **[LEX](https://github.com/PxD2/lex)** | Ideogram layer — 1/2/4-byte paragraph ids | public contract |
+| **.PMOC** | Parallel Memory Optimized Compute container | private inventor record |
+| **Numerical Sentencing** | Control method — not a chat | private testbed |
+| **Cyrptonics** | Expendable page over the directory id | private encoder |
+| **ASTROCOM** | Barebone OS for droids, not desks | private packs |
+| **Mesh-Brain** | LoRa swarm into a silent CORE | private build book |
 
 ## Charter
 
@@ -44,5 +64,6 @@ Press **Enter** on the hall to open the company page. Scan the QR in the room to
 - First systems, then mothball fleet refit.
 - Autonomy that stays ours.
 - Lead the way.
+- Change the data. Keep the silicon.
 
 Arizona, US · Chad Peters · PXD2 Soft Dev Group
