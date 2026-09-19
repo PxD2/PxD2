@@ -12,7 +12,7 @@ First steel → mothball fleet refit.
 The future of defense, security, and prosperity is autonomy.  
 **PXD2 will lead the way** — by consistent, unyielding hard work.
 
-[**Walk the floor →**](https://pxd2.github.io/) · [Hackspace](https://pxd2.github.io/pxd2spaces/) · [Company · contact · investors](https://pxd2.github.io/company/) · [(928) 457-6404](tel:+19284576404) · [pxdsquared@gmail.com](mailto:pxdsquared@gmail.com)
+[**Walk the floor →**](https://pxd2.github.io/) · [Sites we hold](https://pxd2.github.io/sites/) · [Hackspace](https://pxd2.github.io/pxd2spaces/) · [Company · contact · investors](https://pxd2.github.io/company/) · [(928) 457-6404](tel:+19284576404) · [pxdsquared@gmail.com](mailto:pxdsquared@gmail.com)
 
 </div>
 
@@ -56,6 +56,22 @@ Press **Enter** on the hall to open the company page. Scan the QR in the room to
 | **Cyrptonics** | Expendable page over the directory id | private encoder |
 | **ASTROCOM** | Barebone OS for droids, not desks | private packs |
 | **Mesh-Brain** | LoRa swarm into a silent CORE | private build book |
+| **[coms](https://github.com/PxD2/coms)** | Capability-oriented memory system | public stub |
+
+## Sites we hold
+
+Git is ready for **many** sites. Two pipes: GitHub Pages on the hall, and FTP/SFTP/rsync onto boxes we already have. Control plane: **[PxD2/web-systems](https://github.com/PxD2/web-systems)**. Book: [HOSTING.md](https://github.com/PxD2/web-systems/blob/main/HOSTING.md).
+
+| Room | Live |
+| --- | --- |
+| Floor | [pxd2.github.io](https://pxd2.github.io/) |
+| Sites board | [pxd2.github.io/sites](https://pxd2.github.io/sites/) |
+| Open builds index | [pxd2.github.io/sites/open-builds](https://pxd2.github.io/sites/open-builds/) |
+| Helix CAD | [pxd2.github.io/cad2](https://pxd2.github.io/cad2/) |
+| Hackspace | [pxd2.github.io/pxd2spaces](https://pxd2.github.io/pxd2spaces/) |
+| Company | [pxd2.github.io/company](https://pxd2.github.io/company/) |
+
+The open-builds page is a PXD2-held **index** of 348 public listings from [Comparee Hub](https://comparee.ai/projects), with extracted GitHub repos. Original reviews stay on Comparee.
 
 ## Charter
 
@@ -65,5 +81,6 @@ Press **Enter** on the hall to open the company page. Scan the QR in the room to
 - Autonomy that stays ours.
 - Lead the way.
 - Change the data. Keep the silicon.
+- Hold the sites we build. Do not leave a client on a host we cannot reach.
 
 Arizona, US · Chad Peters · PXD2 Soft Dev Group
