@@ -12,7 +12,7 @@ First steel → mothball fleet refit.
 The future of defense, security, and prosperity is autonomy.  
 **PXD2 will lead the way** — by consistent, unyielding hard work.
 
-[**Walk the floor →**](https://pxd2.github.io/) · [Sites we hold](https://pxd2.github.io/sites/) · [Hackspace](https://pxd2.github.io/pxd2spaces/) · [Company · contact · investors](https://pxd2.github.io/company/) · [(928) 457-6404](tel:+19284576404) · [pxdsquared@gmail.com](mailto:pxdsquared@gmail.com)
+[**Walk the floor →**](https://pxd2.github.io/) · [**All sites**](https://pxd2.github.io/sites/) · [Hackspace](https://pxd2.github.io/pxd2spaces/) · [Company · contact · investors](https://pxd2.github.io/company/) · [(928) 457-6404](tel:+19284576404) · [pxdsquared@gmail.com](mailto:pxdsquared@gmail.com)
 
 </div>
 
@@ -60,13 +60,22 @@ Press **Enter** on the hall to open the company page. Scan the QR in the room to
 
 ## Sites we hold
 
+The live board: **[pxd2.github.io/sites](https://pxd2.github.io/sites/)**. Every hall links there.
+
 Git is ready for **many** sites. Two pipes: GitHub Pages on the hall, and FTP/SFTP/rsync onto boxes we already have. Control plane: **[PxD2/web-systems](https://github.com/PxD2/web-systems)**. Book: [HOSTING.md](https://github.com/PxD2/web-systems/blob/main/HOSTING.md).
 
 | Room | Live |
 | --- | --- |
-| Floor | [pxd2.github.io](https://pxd2.github.io/) |
-| Sites board | [pxd2.github.io/sites](https://pxd2.github.io/sites/) |
+| Floor · HOLD | [pxd2.github.io](https://pxd2.github.io/) |
+| **Sites (the list)** | [pxd2.github.io/sites](https://pxd2.github.io/sites/) |
 | Open builds index | [pxd2.github.io/sites/open-builds](https://pxd2.github.io/sites/open-builds/) |
+| Edu | [pxd2.github.io/edu](https://pxd2.github.io/edu/) |
+| Civics | [pxd2.github.io/civics](https://pxd2.github.io/civics/) |
+| STEM | [pxd2.github.io/stem](https://pxd2.github.io/stem/) |
+| Reform College | [pxd2.github.io/college](https://pxd2.github.io/college/) |
+| Hornet Bell | [pxd2.github.io/hornet](https://pxd2.github.io/hornet/) |
+| Alexandria | [pxd2.github.io/alexandria](https://pxd2.github.io/alexandria/) |
+| Studio A | [pxd2.github.io/studioa](https://pxd2.github.io/studioa/) |
 | Helix CAD | [pxd2.github.io/cad2](https://pxd2.github.io/cad2/) |
 | Hackspace | [pxd2.github.io/pxd2spaces](https://pxd2.github.io/pxd2spaces/) |
 | Company | [pxd2.github.io/company](https://pxd2.github.io/company/) |
