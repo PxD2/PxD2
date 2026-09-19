@@ -12,7 +12,7 @@ First steel → mothball fleet refit.
 The future of defense, security, and prosperity is autonomy.  
 **PXD2 will lead the way** — by consistent, unyielding hard work.
 
-[**Walk the floor →**](https://pxd2.github.io/) · [**All sites**](https://pxd2.github.io/sites/) · [Hackspace](https://pxd2.github.io/pxd2spaces/) · [Company · contact · investors](https://pxd2.github.io/company/) · [(928) 457-6404](tel:+19284576404) · [pxdsquared@gmail.com](mailto:pxdsquared@gmail.com)
+[**Walk the floor →**](https://pxd2.github.io/) · [**All sites**](https://pxd2.github.io/sites/) · [Hackspace](https://pxd2.github.io/pxd2spaces/) · [Company · investors](https://pxd2.github.io/company/)
 
 </div>
 
@@ -62,7 +62,7 @@ Press **Enter** on the hall to open the company page. Scan the QR in the room to
 
 The live board: **[pxd2.github.io/sites](https://pxd2.github.io/sites/)**. Every hall links there.
 
-Git is ready for **many** sites. Two pipes: GitHub Pages on the hall, and FTP/SFTP/rsync onto boxes we already have. Control plane: **[PxD2/web-systems](https://github.com/PxD2/web-systems)**. Book: [HOSTING.md](https://github.com/PxD2/web-systems/blob/main/HOSTING.md).
+Git is ready for **many** sites. Two pipes: GitHub Pages on the hall, and FTP/SFTP/rsync onto boxes we already have. Control plane: **[PxD2/web-systems](https://github.com/PxD2/web-systems)**.
 
 | Room | Live |
 | --- | --- |
@@ -92,4 +92,4 @@ The open-builds page is a PXD2-held **index** of 348 public listings from [Compa
 - Change the data. Keep the silicon.
 - Hold the sites we build. Do not leave a client on a host we cannot reach.
 
-Arizona, US · Chad Peters · PXD2 Soft Dev Group
+PXD2 Soft Dev Group
