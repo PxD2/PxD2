@@ -18,6 +18,18 @@ The future of defense, security, and prosperity is autonomy.
 
 ---
 
+## Certifications
+
+**AMD ROCm™ Certified Associate**
+
+PXD2 has passed the AMD ROCm Certified Associate certification (Core AMD ROCm™ Software Application Development). We will continue through to Professional and Expert as the program continues.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/PxD2/PxD2/main/rocm-associate.png" alt="AMD ROCm Certified Associate" width="300" />
+</div>
+
+---
+
 ## Data product — store and send the number, not the paragraph
 
 PXD2’s commercial software line is a **shared ideogram layer**.
